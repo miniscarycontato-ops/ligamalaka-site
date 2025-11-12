@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Liga Malaka</title>
+  <style>
+    body {
+      background-color: #0c0c0c;
+      color: white;
+      font-family: 'Comic Sans MS', sans-serif;
+      text-align: center;
+    }
+    img {
+      width: 250px;
+      border-radius: 20px;
+      margin: 15px;
+      box-shadow: 0 0 10px #00ff88;
+      transition: 0.3s;
+    }
+    img:hover {
+      transform: scale(1.1);
+      box-shadow: 0 0 25px #00ffff;
+    }
+    h1 {
+      color: #00ffcc;
+      text-shadow: 0 0 10px #00ffaa;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌌 LIGA MALAKA 🌌</h1>
+  <p>Os Brainrots mais malucos do universo!</p>
+  <img src="boleira-goleira.jpg" alt="Boleira Goleira">
+  <img src="chicleteira-bicicleteira.jpg" alt="Chicleteira Bicicleteira">
+  <img src="pipoqueira-motoqueira.jpg" alt="Pipoqueira Motoqueira">
+  <img src="pirulito-docito.jpg" alt="Pirulito Docito">
+</body>
+</html>
